@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Jojo10x/React-todo.git/static/css/main.5ae2f9b4.css",
+    "main.js": "/Jojo10x/React-todo.git/static/js/main.9ab8704a.js",
+    "index.html": "/Jojo10x/React-todo.git/index.html",
+    "main.5ae2f9b4.css.map": "/Jojo10x/React-todo.git/static/css/main.5ae2f9b4.css.map",
+    "main.9ab8704a.js.map": "/Jojo10x/React-todo.git/static/js/main.9ab8704a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ae2f9b4.css",
+    "static/js/main.9ab8704a.js"
+  ]
+}
